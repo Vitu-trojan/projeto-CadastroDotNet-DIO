@@ -1,4 +1,4 @@
-# Projeto Cadastro em .Net 
+# Projeto Cadastro em C# + .Net
 
 #### Feito em um desafio de projeto na DIO com algumas coisas diferentes do expert...
 
