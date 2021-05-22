@@ -1,0 +1,7 @@
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\bin\Debug\cadastroDotNet.exe.config
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\bin\Debug\cadastroDotNet.exe
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\bin\Debug\cadastroDotNet.pdb
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\obj\Debug\cadastroDotNet.csprojAssemblyReference.cache
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\obj\Debug\cadastroDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\obj\Debug\cadastroDotNet.exe
+C:\Users\Vitu\Documents\Dio\projectToGit\cadastroDotNet\cadastroDotNet\obj\Debug\cadastroDotNet.pdb
